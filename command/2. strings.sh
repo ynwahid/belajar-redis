@@ -1,4 +1,4 @@
-# 3. Strings Data Type
+# 6. Strings Data Type
 # Jalankan docker compose
 docker-compose -f "2. redis-with-config/docker-compose.yaml" up -d
 # Masuk ke redis di container
